@@ -1,0 +1,20 @@
+14 4
+Hell, P., Erdos, P., Winkler, P.: Bandwidth versus bandsize
+Koller, D., Friedman, N.: Probabilistic graphical models: principles and techniques
+Deng, X., Papadimitriou, C.H.: On the complexity of cooperative solution concepts
+Arora, S., Daskalakis, C., Steurer, D.: Message-passing algorithms and improved LP decoding
+Daskalakis, C., Papadimitriou, C.H.: Approximate Nash equilibria in anonymous games
+Polak, S.: New nonbinary code bounds based on a parity argument
+Erdos, P., Hsu, D.F.: Distributed loop network with minimum transmission delay
+Grotschel, M., Lovasz, L., Schrijver, A.: Geometric algorithms and combinatorial optimization
+Getoor, L., Friedman, N., Koller, D., Taskar, B.: Learning probabilistic models of relational structure
+Yang, J.M., Chen, Y.F., Shen, T.W., Kristal, B.S., Hsu, D.F.: Consensus scoring criteria for improving enrichment in virtual screening
+Longchamp, A., Tao, M., Bartelt, A., Ding, K., Lynch, L., Hine, C., Corpataux, J.M., Kristal, B.S., Mitchell, J.R., Ozaki, C.K.: Surgical injury induces local and distant adipose tissue browning
+Deng, X., Hell, P., Huang, J.: Linear-time representation algorithms for proper circular-arc graphs and proper interval graphs
+Litjens, B., Polak, S., Schrijver, A.: Semidefinite bounds for nonbinary codes based on quadruples
+Erdos, P., Lovasz, L.: Problems and results on 3-chromatic hypergraphs and some related questions
+Corpataux, J.M.
+Polak, S.
+Steurer, D.
+Friedman, N.
+0 0
